@@ -1,3 +1,3 @@
 # Bingo-Simulator
 
-In this script, I tried to simulate a number of random plays in Bingo to see how each card perfomrs and verify that there is no preference between cards.
+In this script, I tried to simulate a number of random plays of Bingo to see what the chances are for each card to win and verify that there is no preference between them. I also checked my simulated results with the ones from theoritical approach.
