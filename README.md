@@ -1,5 +1,5 @@
 # Bingo-Simulator
 
-In this script, I tried to simulate a number of random plays of Bingo to see what the chances are for each card to win and verify that there is no preference between them. I also checked my simulated results with the ones from theoritical approach. Please feel free to probe the Jupyter Notebook file.
+In this script, I simulated a number of random plays of Bingo to examine the winning chances of different cards and verify that there is no preference between any of them. I also checked my simulated results with the theoritical results. Feel free to probe the Jupyter Notebook file.
 
-I hope my friends Maryam, Maral, Setare, Nasser and Soheil believe now that it was only by chance that I won the game twice in row that night :D
+I hope my friends see now that I'm not a cheater and simply happened to win twice in row :D
